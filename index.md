@@ -2,76 +2,60 @@
 layout: cv
 title: Leo Möller's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Leo Möller
+DevOps utvecklare i hårdträning.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="gbgleo@gmail.com">gbgleo@gmail.com</a>
 </div>
 
 
-## Currently
+## För närvarande
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Studerar till DevOps Utvecklare på EC Utbildningar i Göteborg.
 
 
-### Research interests
+## Utbildning
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`2020 - nu, Göteborg`
+__EC Utbildningar__
 
+- DevOps Utvecklare
 
-## Education
+`2014 - 2017, Göteborg`
+__Göteborgs Universitet__
 
-`1654-1660`
-__The King's School, Grantham.__
+- Kandidatexamen i Kognitionsvetenskap
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`1999 - 2002, Partille`
+__Porthälla Gymnasium - Skapande Teknik__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Ljud- och Ljusteknisk inriktning
 
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+## Arbetslivserfarenhet
 
 
+`2005 – 2020, Europa`
+__Frilansande Ljudtekniker__
 
-## Publications
+- Ljudtekniker vid liveframträdanden och i inspelningsstudio.
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`2016 - 2020, Sverige`
+__Frilansande Filmare__
 
-### Journals
+- Framställande av musikvideos.
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2008 - 2020, Göteborg`
+__Liseberg__
 
-`1669`
-Lectiones opticæ.
+- Ljudtekniker under liveframträdanden på Lisebergs scener.
 
-etc. etc. etc.
+`2014 - 2018, Göteborg`
+__Teater Aftonstjärnan__
 
-### Patents
+Ljud- och ljustekniker vid föreställningar. 
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
 
 `1600`
 __Royal Mint__, London
